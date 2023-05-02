@@ -1,0 +1,45 @@
+$----------------------------------
+$ Plugin DotClear - VideoInsert
+$ CHANGELOG
+$----------------------------------
+v0.36 - 06-11-2013
+-> Quelques modifications mineures
+-> Correction de la reconnaissance d'url Dailymotion
+$----------------------------------
+v0.35 - 30-10-2013
+-> Ajout de la protection par mot de passe (password='xxxx')
+-> Correction de la prise en charge Dailymotion (merci pichel!)
+$----------------------------------
+v0.34 - 21-10-2011
+-> Refonte complète du plugin
+  -> Détection automatique du provider vidéo et de l'identifiant en fonction du texte entré
+  -> Possibilité d'entrer directement l'url ou l'id de la vidéo
+-> Possibilité de sauvegarder / restaurer les paramètres
+-> Ajout d'une aide intégrée
+-> Ajout du support des google vidéos
+$----------------------------------
+v0.33 - 20-10-2011
+-> Possibilité de sauvegarder / restaurer les paramètres (taille et placement)
+-> Ajout d'un check pour détecter si c'est une url qui a été entrée
+$----------------------------------
+v0.32 - 19-10-2011
+-> Ajout de l'option allowFullScreen (et ?fs=1 youtube)
+$----------------------------------
+v0.31 - 04-10-2011
+-> Suppression du embed si IE6 ou inf
+-> Ajout de l'option d'alignement (left-center-right)
+$----------------------------------
+v0.3 - 04-10-2011
+-> Amélioration de la traduction fr
+-> Ajout du code embed si IE6 ou inférieur
+-> Ajout d'un lien alternatif si appareil sans flash
+-> Changement dynamique de l'exemple de l'ID vidéo
+-> Ajout de l'option pour définir l'instant de début de la vidéo (Youtube et Dailymotion) en secondes
+$----------------------------------
+v0.2 - 02-10-2011
+-> Mise aux normes xhtml 1.0 strict
+$----------------------------------
+v0.1 - 30-09-2011
+-> Création du plugin
+-> Insertion d'une vidéo via ::video youtube id='toto'::
+$----------------------------------

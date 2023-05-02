@@ -1,0 +1,81 @@
+
+msgid "Insert video URL or video ID"
+msgstr "Insérez l'url ou l'identifiant de la vidéo"
+
+msgid "Add video"
+msgstr "Ajouter la vidéo"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Width"
+msgstr "Largeur"
+
+msgid "Height"
+msgstr "Hauteur"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "See video on"
+msgstr "Voir la vidéo sur"
+
+msgid "Video start time (in seconds)"
+msgstr "Début de la vidéo (en secondes)"
+
+msgid "Alignment"
+msgstr "Alignement"
+
+msgid "left"
+msgstr "gauche"
+
+msgid "center"
+msgstr "centre"
+
+msgid "right"
+msgstr "droite"
+
+msgid "Default options saved."
+msgstr "Paramètres sauvegardés."
+
+msgid "Default options restored."
+msgstr "Paramètres restaurés."
+
+msgid "Save default options"
+msgstr "Sauver les paramètres"
+
+msgid "Restore default options"
+msgstr "Restaurer les paramètres"
+
+msgid "You have to enter a video ID or URL"
+msgstr "Vous devez entrer un identifiant vidéo ou une url"
+
+msgid "Adding %s video id=%s."
+msgstr "Ajout de la vidéo %s id=%s"
+
+msgid "Unable to recognize video provider or video ID."
+msgstr "Impossible de reconnaitre l'identifiant vidéo ou le site hébergeur."
+
+msgid "This plugin will automatically recognize video provider and video ID from your given data."
+msgstr "Le plugin va automatiquement détecter le site de partage de vidéo ainsi que l'identifiant de la vidéo d'après les données entrées."
+
+msgid "Here is the list of providers and data recognized. If your data doesn't match any of this example it is possible that it will not be recognized."
+msgstr "Voici la liste des sites reconnus. Si vos données ne correspondent pas a l'un de ces exemples il est possible que votre vidéo ne soit pas reconnue."
+
+msgid "Video url example :"
+msgstr "Exemple d'url vidéo :"
+
+msgid "Video ID example :"
+msgstr "Exemple d'identifiant vidéo :"
+
+msgid "+ Show private video"
+msgstr "+ Afficher la vidéo privée"
+
+msgid "In order to show private video you have to enter a password."
+msgstr "Afin d'afficher la vidéo privée vous devez entrer un mot de passe."
+
+msgid "Password for video protection"
+msgstr "Mot de passe pour protection de la vidéo"
+
+msgid "Let empty for no private video management"
+msgstr "Laisser vide pour ne pas protéger la vidéo"
